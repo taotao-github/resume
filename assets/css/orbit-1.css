@@ -209,14 +209,15 @@ p {
   width: 100%;
   display: block;
   height: 1px;
-  background-color: #efefef;
+  background-color: #42a8c0;
   position: absolute;
   z-index: 1;
 }
 .main-wrapper .section-title-box .section-title {
-  background-color: #eeeeee;
+  background-color: #42a8c0;
   border-radius: 16px;
-  color: #565973;
+  padding: 0 20px;
+  color: #fff;
   min-width: 120px;
   height: 32px;
   display: flex;
@@ -298,7 +299,7 @@ p {
 }
 
 .main-wrapper .summary .summary-content > .project-title {
-  color: #5694de;
+  color: #2d7788;
   font-size: 16px;
   font-weight: bolder;
 }
