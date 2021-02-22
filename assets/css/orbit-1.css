@@ -102,6 +102,10 @@ p {
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
 }
+.sidebar-wrapper .contact-list li svg:first-child {
+  display: inline-block;
+  width: 18px;
+}
 
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
