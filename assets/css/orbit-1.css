@@ -186,7 +186,7 @@ p {
 /* 左侧 */
 .main-wrapper {
   background: #fff;
-  padding: 60px;
+  padding: 30px 60px;
   padding-right: 300px;
 }
 
@@ -321,8 +321,8 @@ p {
   padding: 0 8px;
 }
 .main-wrapper .summary .summary-content > .content-box .technology-box span {
-  display: block;
-  margin-bottom: 2px;
+  display: inline-block;
+  padding-right: 5px;
 }
 .main-wrapper .summary .summary-content > .content-box .item-project-desc {
   background-color: #f3f3f3;
@@ -365,7 +365,7 @@ p {
 }
 
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 .main-wrapper .experiences-section .item {
