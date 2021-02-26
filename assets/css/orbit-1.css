@@ -68,6 +68,15 @@ p {
   color: #fff;
 }
 
+.sidebar-wrapper .profile-container .img-header {
+  width: 120px;
+  height: 120px;
+  margin: 10px auto;
+  border-radius: 50%;
+  background: url(./../images/profile.png) center center no-repeat;
+  background-size: cover;
+}
+
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
